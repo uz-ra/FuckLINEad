@@ -1,7 +1,7 @@
 Package: jp.uzra.fucklinead
 Name: FuckLINEad
 Depends: mobilesubstrate
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Description: Get rid of shitty LINE ads 
 Maintainer: uz.ra

@@ -1,6 +1,6 @@
 HOST ?= 0
 KILL ?= 0
-ROOTLESS ?= 1
+ROOTLESS ?= 0
 
 ifeq ($(HOST),0)
 	THEOS_DEVICE_IP = 192.168.3.67
