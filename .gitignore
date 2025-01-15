@@ -1,0 +1,9 @@
+.theos/
+packages/
+.DS_Store
+Root.plist
+Tweak/bu/
+Prefs/
+common/
+bu/
+Tweak.mm
